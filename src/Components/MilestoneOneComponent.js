@@ -221,7 +221,7 @@ function MilestoneOne() {
                   <li>
                     The unit of measurement used to represent “Metric Tons of
                     Carbon Dioxide” is incorrect - the correct unit of measure
-                    is “MTO2e.”
+                    is “MTCO2e.”
                   </li>
                 </ul>
               </tr>
@@ -277,7 +277,7 @@ function MilestoneOne() {
         <hr />
         <div id="visualOne" style={{ margin: "50px" }}>
           <p style={{ textAlign: "left", fontSize: "2em", color: "#3b3b3b" }}>
-            Visual #1 - All the World's Emissions in One Chart
+            Visual #2 - Work in progress
           </p>
           <p style={{ textAlign: "left", fontSize: "1.3em", color: "#3b3b3b" }}>
             123
