@@ -119,7 +119,7 @@ function MilestoneOne() {
                 <ul>
                   <li>
                     The infograph aims to illstrate where majority of the
-                    world’s carbon emissions came.
+                    world’s carbon emissions came from.
                   </li>
                   <li>
                     The visualisation is designed to highlight the top "heavy
