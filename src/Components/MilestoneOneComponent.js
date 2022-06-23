@@ -243,7 +243,7 @@ function MilestoneOne() {
                 <ul>
                   <li>
                     Bar graphs or pie charts could be employed to better
-                    illustrate the differents in percentages
+                    accentuate the difference in percentages
                   </li>
                   <li>
                     Using different colour weights can help users easily
