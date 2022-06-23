@@ -192,8 +192,8 @@ function MilestoneOne() {
                   <li>
                     We observe that the higher the percentage, the darker the
                     shade of purple. However, some countries are not represented
-                    in any shade of purple. (e.g. Countries with less than 0.7%
-                    (i.e. Vietnam & Argentina) were coloured in pink.)
+                    in any shade of purple. Countries with less than 0.7% (i.e.
+                    Vietnam & Argentina) were coloured in pink.)
                   </li>
                   <li>
                     We observed that South Korea (1.7%) has a darker shade of
@@ -273,21 +273,128 @@ function MilestoneOne() {
               </td>
             </tr>
           </table>
+          <br />
         </div>
         <hr />
-        <div id="visualOne" style={{ margin: "50px" }}>
-          <p style={{ textAlign: "left", fontSize: "2em", color: "#3b3b3b" }}>
-            Visual #2 - Work in progress
-          </p>
-          <p style={{ textAlign: "left", fontSize: "1.3em", color: "#3b3b3b" }}>
-            123
-            <a href="http://www.example.com">
+        <div id="visualOne">
+          <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
+            Visual #2 - TBC{" "}
+            <a href="#">
               <span style={{ fontSize: "0.7em" }}>
                 <b>(Source)</b>
               </span>
             </a>
           </p>
-          <img src={visualOne} />
+          <p
+            style={{
+              textAlign: "left",
+              fontSize: "1em",
+              color: "#111111",
+              lineHeight: "1.3em",
+            }}
+          >
+            Created by
+          </p>
+          <br />
+
+          <table style={{ textAlign: "left", marginTop: 0 }}>
+            <tr>
+              <td rowspan="3" width={750} style={{ verticalAlign: "top" }}>
+                {" "}
+                <img src={visualOne} width={700} />
+              </td>
+              <tr>
+                <h2
+                  style={{
+                    fontWeight: 100,
+                    marginTop: 0,
+                    marginLeft: -20,
+                    marginBottom: -10,
+                  }}
+                >
+                  Data
+                </h2>
+                <ul>
+                  <li>123</li>
+                </ul>
+              </tr>
+              <br />
+              <tr>
+                <h2
+                  style={{
+                    fontWeight: 100,
+                    marginTop: -10,
+                    marginLeft: -20,
+                    marginBottom: -10,
+                  }}
+                >
+                  Task
+                </h2>
+                <ul>
+                  <li>123</li>
+                </ul>
+              </tr>
+              <br />
+              <tr>
+                <h2
+                  style={{
+                    fontWeight: 100,
+                    marginTop: -10,
+                    marginBottom: -10,
+                    marginLeft: -20,
+                  }}
+                >
+                  Idiom (Good)
+                </h2>
+                <ul>
+                  <li>123</li>
+                </ul>
+              </tr>
+              <br />
+              <tr>
+                <h2
+                  style={{
+                    fontWeight: 100,
+                    marginTop: -10,
+                    marginBottom: -10,
+                    marginLeft: -20,
+                  }}
+                >
+                  Idiom (Bad)
+                </h2>
+                <ul>
+                  <li>123</li>
+                </ul>
+              </tr>
+            </tr>
+          </table>
+          <br />
+          <br />
+          <hr />
+          <br />
+          <table style={{ textAlign: "left", marginTop: 0 }}>
+            <tr>
+              <td
+                width={300}
+                style={{ textAlign: "left", verticalAlign: "top" }}
+              >
+                <h2 style={{ fontWeight: 100 }}>Improvements</h2>
+              </td>
+              <td>
+                <ul>
+                  <li>123</li>
+
+                  <br />
+                  <img
+                    src={visualOneNew}
+                    width={window.innerWidth - 600}
+                    style={{ marginLeft: -20 }}
+                  />
+                </ul>
+              </td>
+            </tr>
+          </table>
+          <br />
         </div>
       </div>
     </div>
