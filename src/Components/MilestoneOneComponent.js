@@ -193,7 +193,7 @@ function MilestoneOne() {
                     We observe that the higher the percentage, the darker the
                     shade of purple. However, some countries are not represented
                     in any shade of purple. Countries with less than 0.7% (i.e.
-                    Vietnam & Argentina) were coloured in pink.)
+                    Vietnam & Argentina were coloured in pink).
                   </li>
                   <li>
                     We observed that South Korea (1.7%) has a darker shade of
