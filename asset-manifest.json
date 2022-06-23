@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/CSC3007-project/static/css/main.6d86820d.css",
-    "main.js": "/CSC3007-project/static/js/main.b3b183ca.js",
+    "main.js": "/CSC3007-project/static/js/main.1b27a8b2.js",
     "static/js/787.a26d8cef.chunk.js": "/CSC3007-project/static/js/787.a26d8cef.chunk.js",
-    "static/media/visual-one-new.png": "/CSC3007-project/static/media/visual-one-new.9c9f2e1033b508a1078f.png",
     "static/media/global-emissions-4.jpg": "/CSC3007-project/static/media/global-emissions-4.642101b93b9a02e19563.jpg",
+    "static/media/visual-one-new.png": "/CSC3007-project/static/media/visual-one-new.2bb1ad6f8ead65a752a3.png",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/CSC3007-project/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
     "static/media/ibm-plex-sans-latin-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-latin-400-normal.4d32b6c22a800bdf8260.woff2",
     "static/media/ibm-plex-sans-latin-ext-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-latin-ext-400-normal.77bcbc5ecc8f4f2bbe06.woff2",
@@ -14,11 +14,11 @@
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
     "index.html": "/CSC3007-project/index.html",
     "main.6d86820d.css.map": "/CSC3007-project/static/css/main.6d86820d.css.map",
-    "main.b3b183ca.js.map": "/CSC3007-project/static/js/main.b3b183ca.js.map",
+    "main.1b27a8b2.js.map": "/CSC3007-project/static/js/main.1b27a8b2.js.map",
     "787.a26d8cef.chunk.js.map": "/CSC3007-project/static/js/787.a26d8cef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d86820d.css",
-    "static/js/main.b3b183ca.js"
+    "static/js/main.1b27a8b2.js"
   ]
 }
