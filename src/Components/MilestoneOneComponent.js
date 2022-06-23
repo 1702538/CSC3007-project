@@ -242,7 +242,7 @@ function MilestoneOne() {
               <td>
                 <ul>
                   <li>
-                    Bar graphs or pie charts could be employed to better
+                    Bar graphs or pie charts can be employed to better
                     accentuate the difference in percentages
                   </li>
                   <li>
