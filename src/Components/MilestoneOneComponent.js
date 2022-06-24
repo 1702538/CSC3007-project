@@ -1,6 +1,16 @@
 import visualOne from "../Images/global-emissions-4.jpg";
 import visualOneNew from "../Images/visual-one-new.png";
+
+import visualOneVio1 from "../Images/visualOne-violation-1.png";
+import visualOneVio2 from "../Images/visualOne-violation-2.png";
+import visualOneVio3 from "../Images/visualOne-violation-3.png";
+import visualOneVio4 from "../Images/visualOne-violation-4.png";
+
 import "@fontsource/ibm-plex-sans";
+import "antd/dist/antd.css";
+
+import { Card } from "antd";
+const { Meta } = Card;
 
 function MilestoneOne() {
   // JS code here
@@ -68,13 +78,15 @@ function MilestoneOne() {
           marginRight: "40px",
         }}
       >
+        <br />
         <div id="beforeContent">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
             Introduction to Milestone One
           </p>
-          <table style={{ textAlign: "left", marginTop: 0 }}></table>
+          <table style={{ textAlign: "left" }}></table>
         </div>
         <hr />
+        <br />
         <div id="visualOne">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
             Visual #1 - All the World's Emissions in One Chart{" "}
@@ -111,7 +123,6 @@ function MilestoneOne() {
                     fontWeight: 100,
                     marginTop: 0,
                     marginLeft: -20,
-                    marginBottom: -10,
                   }}
                 >
                   Data
@@ -135,7 +146,6 @@ function MilestoneOne() {
                     fontWeight: 100,
                     marginTop: -10,
                     marginLeft: -20,
-                    marginBottom: -10,
                   }}
                 >
                   Task
@@ -153,7 +163,6 @@ function MilestoneOne() {
                   style={{
                     fontWeight: 100,
                     marginTop: -10,
-                    marginBottom: -10,
                     marginLeft: -20,
                   }}
                 >
@@ -182,7 +191,6 @@ function MilestoneOne() {
                   style={{
                     fontWeight: 100,
                     marginTop: -10,
-                    marginBottom: -10,
                     marginLeft: -20,
                   }}
                 >
@@ -193,30 +201,30 @@ function MilestoneOne() {
                     We observe that the higher the percentage, the darker the
                     shade of purple. However, some countries are not represented
                     in any shade of purple. Countries with less than 0.7% (i.e.
-                    Vietnam & Argentina were coloured in pink).
+                    Vietnam & Argentina) are in pink.
                   </li>
                   <li>
                     We observed that South Korea (1.7%) has a darker shade of
                     purple as compared to other countries with higher carbon
-                    emission percentages (e.g., Japan with 3.3%).
+                    emission percentages (e.g. Japan with 3.3%).
                   </li>
                   <li>
                     Inconsistent segment sizes for the same percentage of carbon
-                    emissions. E.g. the size of Vietnam & Argentina (both 0.6%)
-                    are inherently different.
+                    emissions. (e.g. the carbon emission volume for both Vietnam
+                    & Argentina are 0.6%, but they look inherently different).
                   </li>
                   <li>
-                    The countries were neither sorted alphabetically nor grouped
-                    by their percentage.
+                    The countries are neither sorted alphabetically nor grouped
+                    by their percentages.
                   </li>
                   <li>
                     No list of countries is provided to allow easy
                     identification of all the countries represented.
                   </li>
                   <li>
-                    The font used in the segments is not standardised. E.g. the
+                    The font used in the segments is not standardised. (e.g. the
                     font used for “Malaysia” is different from the rest of the
-                    other countries.
+                    other countries).
                   </li>
                   <li>
                     The unit of measurement used to represent “Metric Tons of
@@ -230,6 +238,84 @@ function MilestoneOne() {
           <br />
           <br />
           <hr />
+          <br />
+          <table style={{ textAlign: "left", marginTop: 0 }}>
+            <tr>
+              <td
+                width={300}
+                style={{
+                  textAlign: "left",
+                  verticalAlign: "top",
+                }}
+              >
+                <h2 style={{ fontWeight: 100 }}>Design Violations</h2>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualOneVio1} />}
+                >
+                  <Meta
+                    title="Law of Proximity"
+                    description="Skewed representation. Adjacent segments do not  correlate with each other. "
+                  />
+                </Card>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  headStyle={{ backgroundColor: "red", color: "#ffffff" }}
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualOneVio2} />}
+                >
+                  <Meta
+                    title="Law of Similarity"
+                    description="Segments with identical percentages look completely different from each other"
+                  />
+                </Card>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  headStyle={{ backgroundColor: "red", color: "#ffffff" }}
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualOneVio3} />}
+                >
+                  <Meta
+                    title="Law of Common Region"
+                    description="Segments are neither grouped by volume nor by their geographical location"
+                  />
+                </Card>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  headStyle={{ backgroundColor: "red", color: "#ffffff" }}
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualOneVio4} />}
+                >
+                  <Meta
+                    title="Law of Prägnanz"
+                    description="Complex shapes and sizes makes it difficult to interpret the precentages"
+                  />
+                </Card>
+              </td>
+            </tr>
+          </table>
+          <br />
           <br />
           <table style={{ textAlign: "left", marginTop: 0 }}>
             <tr>
@@ -309,7 +395,6 @@ function MilestoneOne() {
                     fontWeight: 100,
                     marginTop: 0,
                     marginLeft: -20,
-                    marginBottom: -10,
                   }}
                 >
                   Data

@@ -24,3 +24,11 @@ ul {
 li {
   margin: 0 0 10px 0;
 }
+
+.ant-card-meta-description {
+  color: #111111;
+}
+
+.ant-card-meta-title {
+  font-weight: bold;
+}
