@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/CSC3007-project/static/css/main.6d86820d.css",
-    "main.js": "/CSC3007-project/static/js/main.ee58ae98.js",
+    "main.css": "/CSC3007-project/static/css/main.d9dc5897.css",
+    "main.js": "/CSC3007-project/static/js/main.bebf0447.js",
     "static/js/787.a26d8cef.chunk.js": "/CSC3007-project/static/js/787.a26d8cef.chunk.js",
+    "static/media/visualOne-violation-4.png": "/CSC3007-project/static/media/visualOne-violation-4.846ab89a3beea8efac88.png",
+    "static/media/visualOne-violation-2.png": "/CSC3007-project/static/media/visualOne-violation-2.51852614f0fc70a829f1.png",
+    "static/media/visualOne-violation-3.png": "/CSC3007-project/static/media/visualOne-violation-3.88ca0887cda2987ed994.png",
     "static/media/global-emissions-4.jpg": "/CSC3007-project/static/media/global-emissions-4.642101b93b9a02e19563.jpg",
+    "static/media/visualOne-violation-1.png": "/CSC3007-project/static/media/visualOne-violation-1.0deefacae701d9754b0d.png",
     "static/media/visual-one-new.png": "/CSC3007-project/static/media/visual-one-new.2bb1ad6f8ead65a752a3.png",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/CSC3007-project/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
     "static/media/ibm-plex-sans-latin-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-latin-400-normal.4d32b6c22a800bdf8260.woff2",
@@ -13,12 +17,12 @@
     "static/media/ibm-plex-sans-cyrillic-ext-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-cyrillic-ext-400-normal.56b6c5df575156819cfa.woff2",
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
     "index.html": "/CSC3007-project/index.html",
-    "main.6d86820d.css.map": "/CSC3007-project/static/css/main.6d86820d.css.map",
-    "main.ee58ae98.js.map": "/CSC3007-project/static/js/main.ee58ae98.js.map",
+    "main.d9dc5897.css.map": "/CSC3007-project/static/css/main.d9dc5897.css.map",
+    "main.bebf0447.js.map": "/CSC3007-project/static/js/main.bebf0447.js.map",
     "787.a26d8cef.chunk.js.map": "/CSC3007-project/static/js/787.a26d8cef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d86820d.css",
-    "static/js/main.ee58ae98.js"
+    "static/css/main.d9dc5897.css",
+    "static/js/main.bebf0447.js"
   ]
 }
