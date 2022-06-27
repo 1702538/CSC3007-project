@@ -1,3 +1,4 @@
+// VisualOne Images
 import visualOne from "../Images/global-emissions-4.jpg";
 import visualOneNew from "../Images/visual-one-new.png";
 
@@ -5,6 +6,14 @@ import visualOneVio1 from "../Images/visualOne-violation-1.png";
 import visualOneVio2 from "../Images/visualOne-violation-2.png";
 import visualOneVio3 from "../Images/visualOne-violation-3.png";
 import visualOneVio4 from "../Images/visualOne-violation-4.png";
+
+// VisualTwo Images
+import visualTwo from "../Images/Countries-with-the-Worst-Air-Quality-Full-Size.jpg";
+import visualTwoNew from "../Images/visual-two-new.png";
+
+import visualTwoVio1 from "../Images/visualTwo-violation-1.png";
+import visualTwoVio2 from "../Images/visualTwo-violation-2.png";
+import visualTwoVio3 from "../Images/visualTwo-violation-3.png";
 
 import "@fontsource/ibm-plex-sans";
 import "antd/dist/antd.css";
@@ -82,6 +91,23 @@ function MilestoneOne() {
         <div id="beforeContent">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
             Introduction to Milestone One
+          </p>
+
+          <p style={{ textAlign: "left", marginLeft: 20 }}>
+            <ul>
+              <li>
+                Pick 2 visualizations to critique / validate based on
+                data-task-idiom model and suggest improvements.
+              </li>
+              <li>
+                Presentations of critiques to peers + instructor (plus Q&A).
+              </li>
+              <li>
+                After feedback, either: implement suggestions to improve
+                visualization or find a new project topic to submit the next
+                week.
+              </li>
+            </ul>
           </p>
           <table style={{ textAlign: "left" }}></table>
         </div>
@@ -337,16 +363,16 @@ function MilestoneOne() {
                 <ul>
                   <li>
                     Bar graphs or pie charts can be employed to better
-                    accentuate the difference in percentages
+                    accentuate the difference in percentages.
                   </li>
                   <li>
                     Using different colour weights can help users easily
                     differentiate between the name of the country and the
-                    percentage values
+                    percentage values.
                   </li>
                   <li>
                     Names of countries should be positioned upright and not
-                    tilted 90 degrees
+                    tilted 90 degrees.
                   </li>
                   <li>
                     Countries can also be grouped by their regions or positioned
@@ -370,10 +396,11 @@ function MilestoneOne() {
           <br />
         </div>
         <hr />
+        <br />
         <div id="visualOne">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
-            Visual #2 - TBC{" "}
-            <a href="#">
+            Visual #2 - Which Countries Have the Worst Air Pollution?{" "}
+            <a href="https://www.visualcapitalist.com/mapped-which-countries-have-the-worst-air-pollution">
               <span style={{ fontSize: "0.7em" }}>
                 <b>(Source)</b>
               </span>
@@ -387,77 +414,167 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by
+            Created by Matt Dzugan, this infograph provides a world map-view of
+            the concentration of Fine Particulate Matter (PM2.5) for each of the
+            countries; countries with high PM2.5 concentrations will have a
+            darker shade of brown, while countries with lower concentrations
+            will have a dark shade of blue.
           </p>
-          <br />
-
-          <table style={{ textAlign: "left", marginTop: 0 }}>
+          <table
+            with={window.innerWidth}
+            style={{ textAlign: "left", marginTop: 0, marginLeft: 20 }}
+          >
             <tr>
-              <td rowspan="3" width={750} style={{ verticalAlign: "top" }}>
-                {" "}
-                <img src={visualOne} width={700} />
+              <td colSpan={2} style={{ verticalAlign: "top" }}>
+                <img
+                  src={visualTwo}
+                  width={window.innerWidth * 0.9}
+                  style={{ marginLeft: -40 }}
+                />
+                <br />
+                <br />
+                <br />
               </td>
+            </tr>
+            <tr>
               <tr>
-                <h2
-                  style={{
-                    fontWeight: 100,
-                    marginTop: 0,
-                    marginLeft: -20,
-                  }}
+                <td
+                  width={window.innerWidth * 0.4}
+                  style={{ verticalAlign: "top" }}
                 >
-                  Data
-                </h2>
-                <ul>
-                  <li>123</li>
-                </ul>
+                  <h2
+                    style={{
+                      fontWeight: 100,
+                      marginTop: 0,
+                      marginLeft: -20,
+                    }}
+                  >
+                    Data
+                  </h2>
+                  <ul>
+                    <li>
+                      Data used is identified as "ratio" data. However, the
+                      statistical data is omitted from the graph as the author
+                      has chosen to represent the data using a density map
+                      diagram.
+                    </li>
+                    <li>
+                      The countries shown in the chart are also resized to
+                      represent the population number rather than the amount of
+                      land; the higher the population, the larger the size of
+                      the country on the map.
+                    </li>
+                  </ul>
+                </td>
+                <td width={window.innerWidth * 0.04}></td>
+                <td
+                  width={window.innerWidth * 0.4}
+                  style={{ verticalAlign: "top" }}
+                >
+                  <h2
+                    style={{
+                      fontWeight: 100,
+                      marginTop: 0,
+                      marginLeft: -20,
+                    }}
+                  >
+                    Task
+                  </h2>
+                  <ul>
+                    <li>
+                      The infograph aims to provide a “bird-eyes” view of the
+                      global air pollution and PM 2.5 concentrations for various
+                      countries around th world, and how it impacts the world.
+                    </li>
+                    <li>
+                      The authors aims to draw viewer’s attention to the
+                      correlation between the amount of air pollution and the
+                      population density.
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <br />
-              <tr>
-                <h2
-                  style={{
-                    fontWeight: 100,
-                    marginTop: -10,
-                    marginLeft: -20,
-                    marginBottom: -10,
-                  }}
-                >
-                  Task
-                </h2>
-                <ul>
-                  <li>123</li>
-                </ul>
-              </tr>
               <br />
               <tr>
-                <h2
-                  style={{
-                    fontWeight: 100,
-                    marginTop: -10,
-                    marginBottom: -10,
-                    marginLeft: -20,
-                  }}
+                <td
+                  width={window.innerWidth * 0.4}
+                  style={{ verticalAlign: "top" }}
                 >
-                  Idiom (Good)
-                </h2>
-                <ul>
-                  <li>123</li>
-                </ul>
-              </tr>
-              <br />
-              <tr>
-                <h2
-                  style={{
-                    fontWeight: 100,
-                    marginTop: -10,
-                    marginBottom: -10,
-                    marginLeft: -20,
-                  }}
+                  <h2
+                    style={{
+                      fontWeight: 100,
+                      marginTop: 0,
+                      marginLeft: -20,
+                    }}
+                  >
+                    Idiom (Good)
+                  </h2>
+                  <ul>
+                    <li>
+                      The diagram is effective in demonstrating the high levels
+                      of air pollution in larger countries (i.e. India, China
+                      and Russia).
+                    </li>
+                    <li>
+                      There are clear annotations in the chart (albeit the
+                      smaller text size) to inform viewers on how to read and
+                      understand the chart, including a text to inform users
+                      about the threshold set by WHO.
+                    </li>
+                    <li>
+                      Good use of colour scales to represent the different
+                      levels of air pollution for each of the countries (i.e.
+                      familar colours are used to represent different levels of
+                      air pollution - Jakob's Law).
+                    </li>
+                    <li>
+                      Countries with high levels of air pollution are shown to
+                      have the same colour gradidents. Good example of the Von
+                      Restorff Effect.
+                    </li>
+                  </ul>
+                </td>
+                <td width={window.innerWidth * 0.04}></td>
+                <td
+                  width={window.innerWidth * 0.4}
+                  style={{ verticalAlign: "top" }}
                 >
-                  Idiom (Bad)
-                </h2>
-                <ul>
-                  <li>123</li>
-                </ul>
+                  <h2
+                    style={{
+                      fontWeight: 100,
+                      marginTop: 0,
+                      marginLeft: -20,
+                    }}
+                  >
+                    Idiom (Bad)
+                  </h2>
+                  <ul>
+                    <li>
+                      Due to the resizing of the countries, it can be difficult
+                      to differentiate between countries. Some countries were
+                      also omitted from the map due to the scaling (e.g.
+                      Singapore).
+                    </li>
+                    <li>
+                      Different colours across the colour legend are utilised,
+                      making it challenging to determine the actual levels of
+                      air pollution (e.g. Indonesia is represented by all the
+                      colours in the colour legend).
+                    </li>
+                    <li>
+                      There is no explanation provided on why the countries were
+                      “pixelated” - it was later revealed in a separate
+                      interview that each pixel (boxes) represents 500,000
+                      people.
+                    </li>
+                    <li>
+                      The colour gradients used do not appear to correlate with
+                      the actual air pollution situation for different areas of
+                      the countries.
+                    </li>
+                  </ul>
+                </td>
               </tr>
             </tr>
           </table>
@@ -469,20 +586,104 @@ function MilestoneOne() {
             <tr>
               <td
                 width={300}
+                style={{
+                  textAlign: "left",
+                  verticalAlign: "top",
+                }}
+              >
+                <h2 style={{ fontWeight: 100 }}>Design Violations</h2>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualTwoVio1} />}
+                >
+                  <Meta
+                    title="Law of Prägnanz"
+                    description="Different shapes and sizes were utilised to fit the countries on the density map"
+                  />
+                </Card>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  headStyle={{ backgroundColor: "red", color: "#ffffff" }}
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  cover={<img src={visualTwoVio2} />}
+                >
+                  <Meta
+                    title="Weber’s Law"
+                    description="Many countries were shrunk/enlarged and re-positioned to fit the diagram"
+                  />
+                </Card>
+              </td>
+              <td width={260}>
+                <Card
+                  hoverable
+                  headStyle={{ backgroundColor: "red", color: "#ffffff" }}
+                  style={{
+                    width: 240,
+                    marginLeft: -20,
+                  }}
+                  visualTwoVio1
+                  cover={<img src={visualTwoVio3} />}
+                >
+                  <Meta
+                    title="Krug's 1st Law of Usability"
+                    description="Different colours across the scale are used. So what do the colours mean?"
+                  />
+                </Card>
+              </td>
+            </tr>
+          </table>
+          <br />
+          <br />
+          <table style={{ textAlign: "left", marginTop: 0 }}>
+            <tr>
+              <td
+                width={300}
                 style={{ textAlign: "left", verticalAlign: "top" }}
               >
                 <h2 style={{ fontWeight: 100 }}>Improvements</h2>
               </td>
               <td>
                 <ul>
-                  <li>123</li>
-
+                  <li>
+                    A traditional choropleth map may be more appropriate for
+                    illustrating data (by country) using a world map.
+                  </li>
+                  <li>
+                    A bar chart may be employed to illustrate the different
+                    levels of air population better, be it by country or by
+                    population numbers.
+                  </li>
+                  <li>
+                    A fixed colour for each country should be used instead of
+                    having different colours representing each country.
+                  </li>
+                  <li>
+                    Text labels or tooltips can be used to label the different
+                    countries.
+                  </li>
                   <br />
                   <img
-                    src={visualOneNew}
+                    src={visualTwoNew}
                     width={window.innerWidth - 600}
                     style={{ marginLeft: -20 }}
                   />
+                  <br />
+                  <br />
+                  <p>
+                    Image from
+                    https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)
+                  </p>
                 </ul>
               </td>
             </tr>
