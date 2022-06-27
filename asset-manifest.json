@@ -1,12 +1,17 @@
 {
   "files": {
     "main.css": "/CSC3007-project/static/css/main.d9dc5897.css",
-    "main.js": "/CSC3007-project/static/js/main.b549940c.js",
+    "main.js": "/CSC3007-project/static/js/main.b1da1d48.js",
     "static/js/787.a26d8cef.chunk.js": "/CSC3007-project/static/js/787.a26d8cef.chunk.js",
     "static/media/visualOne-violation-4.png": "/CSC3007-project/static/media/visualOne-violation-4.846ab89a3beea8efac88.png",
     "static/media/visualOne-violation-2.png": "/CSC3007-project/static/media/visualOne-violation-2.51852614f0fc70a829f1.png",
     "static/media/visualOne-violation-3.png": "/CSC3007-project/static/media/visualOne-violation-3.88ca0887cda2987ed994.png",
+    "static/media/visualTwo-violation-3.png": "/CSC3007-project/static/media/visualTwo-violation-3.57a55d246cc366efe628.png",
+    "static/media/visualTwo-violation-1.png": "/CSC3007-project/static/media/visualTwo-violation-1.af9f21fd6797ab839840.png",
+    "static/media/Countries-with-the-Worst-Air-Quality-Full-Size.jpg": "/CSC3007-project/static/media/Countries-with-the-Worst-Air-Quality-Full-Size.f1a0dfc60a2424eafe0b.jpg",
     "static/media/global-emissions-4.jpg": "/CSC3007-project/static/media/global-emissions-4.642101b93b9a02e19563.jpg",
+    "static/media/visualTwo-violation-2.png": "/CSC3007-project/static/media/visualTwo-violation-2.2e03dcf7fc99212861cb.png",
+    "static/media/visual-two-new.png": "/CSC3007-project/static/media/visual-two-new.8556db7a35f6865a260e.png",
     "static/media/visualOne-violation-1.png": "/CSC3007-project/static/media/visualOne-violation-1.0deefacae701d9754b0d.png",
     "static/media/visual-one-new.png": "/CSC3007-project/static/media/visual-one-new.2bb1ad6f8ead65a752a3.png",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/CSC3007-project/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
@@ -18,11 +23,11 @@
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
     "index.html": "/CSC3007-project/index.html",
     "main.d9dc5897.css.map": "/CSC3007-project/static/css/main.d9dc5897.css.map",
-    "main.b549940c.js.map": "/CSC3007-project/static/js/main.b549940c.js.map",
+    "main.b1da1d48.js.map": "/CSC3007-project/static/js/main.b1da1d48.js.map",
     "787.a26d8cef.chunk.js.map": "/CSC3007-project/static/js/787.a26d8cef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9dc5897.css",
-    "static/js/main.b549940c.js"
+    "static/js/main.b1da1d48.js"
   ]
 }
