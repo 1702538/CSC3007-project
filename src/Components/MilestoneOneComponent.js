@@ -129,8 +129,8 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    The infograph aims to illustrate where majority of the
-                    world’s carbon emissions came from.
+                    Data used is identified as "ratio" data, as the volumes are
+                    represented in percentages (%).
                   </li>
                   <li>
                     The visualisation is designed to highlight the top "heavy
@@ -152,8 +152,14 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    To be able to tell at one glance the carbon emission impact
-                    of each country comparatively
+                    The infograph aims to illustrate where most of the world’s
+                    carbon emissions comes from. Large segments with higher
+                    percentages are showns to be represented prominently at the
+                    top and centre of the graph.
+                  </li>
+                  <li>
+                    It also aims to enable users to view the carbon emission
+                    volume for each country comparatively.
                   </li>
                 </ul>
               </tr>
@@ -170,7 +176,8 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    Inclusion of each country’s carbon emission percentages.
+                    Inclusion of each country’s carbon emission percentages
+                    alongside the names.
                   </li>
                   <li>
                     Each segment represents one of the top 30 countries, with
@@ -198,10 +205,11 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    We observe that the higher the percentage, the darker the
-                    shade of purple. However, some countries are not represented
-                    in any shade of purple. Countries with less than 0.7% (i.e.
-                    Vietnam & Argentina) are in pink.
+                    We observe that some countries are not represented in any
+                    shade of purple. Countries with less than 0.7% (i.e. Vietnam
+                    & Argentina) are coloured pink. The colour pink is not
+                    represented in the legend provided below. So what does the
+                    colour "pink" represent?
                   </li>
                   <li>
                     We observed that South Korea (1.7%) has a darker shade of
@@ -222,9 +230,9 @@ function MilestoneOne() {
                     identification of all the countries represented.
                   </li>
                   <li>
-                    The font used in the segments is not standardised. (e.g. the
-                    font used for “Malaysia” is different from the rest of the
-                    other countries).
+                    The font and size of the text are not standardised. (e.g.
+                    the font used for “Malaysia” is different from the rest of
+                    the other countries).
                   </li>
                   <li>
                     The unit of measurement used to represent “Metric Tons of
