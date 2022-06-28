@@ -1,4 +1,7 @@
 // VisualOne Images
+import milestoneOneBackground from "../Images/milestoneOneBackground.jpg";
+
+// VisualOne Images
 import visualOne from "../Images/global-emissions-4.jpg";
 import visualOneNew from "../Images/visual-one-new.png";
 
@@ -33,8 +36,9 @@ function MilestoneOne() {
         style={{
           width: "100%",
           height: window.innerHeight,
-          background: "black",
+          backgroundImage: `url(${milestoneOneBackground})`,
           marginTop: 0,
+          backgroundPosition: "bottom",
         }}
       >
         <p
