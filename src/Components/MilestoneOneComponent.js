@@ -88,6 +88,7 @@ function MilestoneOne() {
         }}
       >
         <br />
+        <br />
         <div id="beforeContent">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
             Introduction to Milestone One
@@ -103,7 +104,7 @@ function MilestoneOne() {
                 Presentations of critiques to peers + instructor (plus Q&A).
               </li>
               <li>
-                After feedback, either: implement suggestions to improve
+                After feedback: Either implement suggestions to improve
                 visualization or find a new project topic to submit the next
                 week.
               </li>
@@ -111,8 +112,11 @@ function MilestoneOne() {
           </p>
           <table style={{ textAlign: "left" }}></table>
         </div>
+
+        <br />
         <hr />
         <br />
+
         <div id="visualOne">
           <p style={{ textAlign: "left", fontSize: "2em", color: "#111111" }}>
             Visual #1 - All the World's Emissions in One Chart{" "}
@@ -130,10 +134,10 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by Iman Ghosh, this infograph features a globe-like shape
-            (which represents Earth) split into multiple segments of different
-            shapes and sizes; each segment represents one of the top 30 highest
-            producers of carbon emissions in the world.
+            Created by VisualCapitalist, this infograph features a globe-like
+            shape (which represents Earth) split into multiple segments of
+            different shapes and sizes; each segment represents one of the top
+            30 highest producers of carbon emissions in the world.
           </p>
           <br />
 
@@ -273,6 +277,7 @@ function MilestoneOne() {
           <br />
           <hr />
           <br />
+
           <table style={{ textAlign: "left", marginTop: 0 }}>
             <tr>
               <td
@@ -688,6 +693,7 @@ function MilestoneOne() {
               </td>
             </tr>
           </table>
+          <br />
           <br />
         </div>
       </div>
