@@ -168,7 +168,7 @@ function MilestoneOne() {
                   </li>
                   <li>
                     The visualisation is designed to highlight the top "heavy
-                    hitters" countries which acccounts for nearly 50% of the
+                    hitters" countries which accounts for nearly 50% of the
                     world's carbon emissions.
                   </li>
                 </ul>
@@ -189,7 +189,7 @@ function MilestoneOne() {
                     The infograph aims to illustrate where most of the world’s
                     carbon emissions comes from. Large segments with higher
                     percentages are showns to be represented prominently at the
-                    top and centre of the graph.
+                    top and center of the graph.
                   </li>
                   <li>
                     It also aims to enable users to view the carbon emission
@@ -320,7 +320,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Similarity"
-                    description="Segments with identical percentages look completely different from each other"
+                    description="Segments with identical percentages look completely different from each other."
                   />
                 </Card>
               </td>
@@ -336,7 +336,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Common Region"
-                    description="Segments are neither grouped by volume nor by their geographical location"
+                    description="Segments are neither grouped by volume nor by their geographical location."
                   />
                 </Card>
               </td>
@@ -352,7 +352,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Prägnanz"
-                    description="Complex shapes and sizes makes it difficult to interpret the precentages"
+                    description="Complex shapes and sizes make it difficult to interpret the precentages."
                   />
                 </Card>
               </td>
@@ -493,7 +493,7 @@ function MilestoneOne() {
                     <li>
                       The infograph aims to provide a “bird-eyes” view of the
                       global air pollution and PM 2.5 concentrations for various
-                      countries around th world, and how it impacts the world.
+                      countries around the world, and how it impacts the world.
                     </li>
                     <li>
                       The authors aims to draw viewer’s attention to the
@@ -517,7 +517,7 @@ function MilestoneOne() {
                       marginLeft: -20,
                     }}
                   >
-                    Idiom (Good)
+                    Idioms (Good)
                   </h2>
                   <ul>
                     <li>
@@ -539,7 +539,7 @@ function MilestoneOne() {
                     </li>
                     <li>
                       Countries with high levels of air pollution are shown to
-                      have the same colour gradidents. Good example of the Von
+                      have the same colour gradient. Good example of the Von
                       Restorff Effect.
                     </li>
                   </ul>
@@ -556,7 +556,7 @@ function MilestoneOne() {
                       marginLeft: -20,
                     }}
                   >
-                    Idiom (Bad)
+                    Idioms (Bad)
                   </h2>
                   <ul>
                     <li>
@@ -613,7 +613,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Prägnanz"
-                    description="Different shapes and sizes were utilised to fit the countries on the density map"
+                    description="Different shapes and sizes were utilised to fit the countries on the density map."
                   />
                 </Card>
               </td>
@@ -629,7 +629,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Weber’s Law"
-                    description="Many countries were shrunk/enlarged and re-positioned to fit the diagram"
+                    description="Many countries were shrunk/enlarged and re-positioned to fit the diagram."
                   />
                 </Card>
               </td>
@@ -646,7 +646,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Krug's 1st Law of Usability"
-                    description="Different colours across the scale are used. So what do the colours mean?"
+                    description="Different colours across the scale are used. What do the colours mean?"
                   />
                 </Card>
               </td>
