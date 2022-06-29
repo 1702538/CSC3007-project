@@ -138,7 +138,7 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by VisualCapitalist, this infograph features a globe-like
+            Created by VisualCapitalist, this infographic features a globe-like
             shape (which represents Earth) split into multiple segments of
             different shapes and sizes; each segment represents one of the top
             30 highest producers of carbon emissions in the world.
@@ -163,13 +163,13 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    Data used is identified as "ratio" data, as the volumes are
-                    represented in percentages (%).
+                    Data used is identified as "ratio" data, as the carbon
+                    emission volumes are represented in percentages (%).
                   </li>
                   <li>
                     The visualisation is designed to highlight the top "heavy
-                    hitters" countries which acccounts for nearly 50% of the
-                    world's carbon emissions.
+                    hitters" countries which collectively accounts for nearly
+                    50% of the world's carbon emissions in 2017.
                   </li>
                 </ul>
               </tr>
@@ -186,10 +186,10 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    The infograph aims to illustrate where most of the world’s
+                    The infographic aims to illustrate where most of the world’s
                     carbon emissions comes from. Large segments with higher
                     percentages are showns to be represented prominently at the
-                    top and centre of the graph.
+                    top and center of the graph.
                   </li>
                   <li>
                     It also aims to enable users to view the carbon emission
@@ -320,7 +320,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Similarity"
-                    description="Segments with identical percentages look completely different from each other"
+                    description="Segments with identical percentages look completely different from each other."
                   />
                 </Card>
               </td>
@@ -336,7 +336,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Common Region"
-                    description="Segments are neither grouped by volume nor by their geographical location"
+                    description="Segments are neither grouped by volume nor by their geographical location."
                   />
                 </Card>
               </td>
@@ -352,7 +352,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Prägnanz"
-                    description="Complex shapes and sizes makes it difficult to interpret the precentages"
+                    description="Complex shapes and sizes make it difficult to interpret the percentages."
                   />
                 </Card>
               </td>
@@ -375,18 +375,23 @@ function MilestoneOne() {
                     accentuate the difference in percentages.
                   </li>
                   <li>
-                    Using different colour weights can help users easily
-                    differentiate between the name of the country and the
-                    percentage values.
+                    Standardise the font styles and how each of the countries
+                    are being represented (e.g. United States is spelled in full
+                    while United Kingdom and United Arab Emirates were
+                    abbreviated to U.K. & U.A.E. respectively)
                   </li>
                   <li>
-                    Names of countries should be positioned upright and not
-                    tilted 90 degrees.
+                    Names of countries can be positioned upright and not tilted
+                    90 degrees.
                   </li>
                   <li>
-                    Countries can also be grouped by their regions or positioned
-                    according to their actual geographical locations on the
-                    globe (geographical graphs only).
+                    All colours used in the charts should be included in the
+                    colour legend.
+                  </li>
+                  <li>
+                    Countries can also be grouped by their similarities (e.g.
+                    they can be grouped by region, by carbon emission volume,
+                    etc.)
                   </li>
                   <li>
                     The total number of countries (excluding “Rest of the
@@ -423,9 +428,9 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by Matt Dzugan, this infograph provides a world map-view of
-            the concentration of Fine Particulate Matter (PM2.5) for each of the
-            countries; countries with high PM2.5 concentrations will have a
+            Created by Matt Dzugan, this infographic provides a world map-view
+            of the concentration of Fine Particulate Matter (PM2.5) for each of
+            the countries; countries with high PM2.5 concentrations will have a
             darker shade of brown, while countries with lower concentrations
             will have a dark shade of blue.
           </p>
@@ -491,14 +496,14 @@ function MilestoneOne() {
                   </h2>
                   <ul>
                     <li>
-                      The infograph aims to provide a “bird-eyes” view of the
-                      global air pollution and PM 2.5 concentrations for various
-                      countries around th world, and how it impacts the world.
+                      The infographic aims to provide a “bird-eyes” view of the
+                      global air pollution and PM2.5 concentrations for various
+                      countries around the world, and how it impacts the world.
                     </li>
                     <li>
-                      The authors aims to draw viewer’s attention to the
-                      correlation between the amount of air pollution and the
-                      population density.
+                      The authors aims to draw viewers' attention to countries
+                      who are considered "high contributors" of air pollution
+                      and have "high" PM2.5 concentration readings.
                     </li>
                   </ul>
                 </td>
@@ -517,7 +522,7 @@ function MilestoneOne() {
                       marginLeft: -20,
                     }}
                   >
-                    Idiom (Good)
+                    Idioms (Good)
                   </h2>
                   <ul>
                     <li>
@@ -528,19 +533,25 @@ function MilestoneOne() {
                     <li>
                       There are clear annotations in the chart (albeit the
                       smaller text size) to inform viewers on how to read and
-                      understand the chart, including a text to inform users
-                      about the threshold set by WHO.
+                      understand the chart, including information on the
+                      threshold set by the WHO.
                     </li>
                     <li>
                       Good use of colour scales to represent the different
+<<<<<<< HEAD
                       levels of air pollution for each of the countries - Memory
                       Colour Effect (i.e. familar colours are used to represent
                       different levels of air pollution).
+=======
+                      levels of air pollution for each country (i.e. familar
+                      colours are used to represent different levels of air
+                      pollution - Memory Colour Effect & Jakob's Law).
+>>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                     </li>
                     <li>
-                      Countries with high levels of air pollution are shown to
-                      have the same colour gradidents. Good example of the Von
-                      Restorff Effect.
+                      Countries with high levels of air pollution are coloured
+                      brown, which is "commonly recognised" as pollution. Good
+                      example of the Von Restorff Effect.
                     </li>
                   </ul>
                 </td>
@@ -556,30 +567,35 @@ function MilestoneOne() {
                       marginLeft: -20,
                     }}
                   >
-                    Idiom (Bad)
+                    Idioms (Bad)
                   </h2>
                   <ul>
                     <li>
                       Due to the resizing of the countries, it can be difficult
+<<<<<<< HEAD
                       to differentiate between countries. Some countries were
                       also omitted from the map due to the scaling.
+=======
+                      to differentiate between each of the countries. (Law of
+                      Familarity)
+>>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                     </li>
                     <li>
                       Different colours across the colour legend are utilised,
                       making it challenging to determine the actual levels of
-                      air pollution (e.g. Indonesia is represented by all the
-                      colours in the colour legend).
+                      air pollution (e.g. Indonesia is represented by almost all
+                      the colours in the legend).
                     </li>
                     <li>
-                      There is no explanation provided on why the countries were
-                      “pixelated” - it was later revealed in a separate
+                      No explanation was provided to explain why the countries
+                      were “pixelated” - it was later revealed in a separate
                       interview that each pixel (boxes) represents 500,000
                       people.
                     </li>
                     <li>
                       The colour gradients used do not appear to correlate with
-                      the actual air pollution situation for different areas of
-                      the countries.
+                      the actual air pollution situation for any of the
+                      countries (i.e. the United States of America)
                     </li>
                   </ul>
                 </td>
@@ -612,7 +628,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Law of Prägnanz"
-                    description="Different shapes and sizes were utilised to fit the countries on the density map"
+                    description="Different shapes and sizes were utilised to fit the countries on the density map."
                   />
                 </Card>
               </td>
@@ -627,8 +643,13 @@ function MilestoneOne() {
                   cover={<img src={visualTwoVio2} />}
                 >
                   <Meta
+<<<<<<< HEAD
                     title="Jakob’s Law"
                     description="Many countries were shrunk/enlarged and re-positioned to fit the diagram"
+=======
+                    title="Law of Familarity"
+                    description="Many countries were shrunk/enlarged and re-positioned to fit the diagram."
+>>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                   />
                 </Card>
               </td>
@@ -645,7 +666,7 @@ function MilestoneOne() {
                 >
                   <Meta
                     title="Krug's 1st Law of Usability"
-                    description="Different colours across the scale are used. So what do the colours mean?"
+                    description="Different colours across the scale are used. What do the colours mean?"
                   />
                 </Card>
               </td>
