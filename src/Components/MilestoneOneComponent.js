@@ -533,9 +533,9 @@ function MilestoneOne() {
                     </li>
                     <li>
                       Good use of colour scales to represent the different
-                      levels of air pollution for each of the countries (i.e.
-                      familar colours are used to represent different levels of
-                      air pollution - Jakob's Law).
+                      levels of air pollution for each of the countries - Memory
+                      Colour Effect (i.e. familar colours are used to represent
+                      different levels of air pollution).
                     </li>
                     <li>
                       Countries with high levels of air pollution are shown to
@@ -562,8 +562,7 @@ function MilestoneOne() {
                     <li>
                       Due to the resizing of the countries, it can be difficult
                       to differentiate between countries. Some countries were
-                      also omitted from the map due to the scaling (e.g.
-                      Singapore).
+                      also omitted from the map due to the scaling.
                     </li>
                     <li>
                       Different colours across the colour legend are utilised,
@@ -628,7 +627,7 @@ function MilestoneOne() {
                   cover={<img src={visualTwoVio2} />}
                 >
                   <Meta
-                    title="Weber’s Law"
+                    title="Jakob’s Law"
                     description="Many countries were shrunk/enlarged and re-positioned to fit the diagram"
                   />
                 </Card>
