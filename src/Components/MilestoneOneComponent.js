@@ -566,8 +566,8 @@ function MilestoneOne() {
                   <ul>
                     <li>
                       Due to the resizing of the countries, it can be difficult
-                      to differentiate between countries. (Weber's Law of Just
-                      Noticeable Difference)
+                      to differentiate between each of the countries. (Law of
+                      Familarity)
                     </li>
                     <li>
                       Different colours across the colour legend are utilised,
@@ -632,7 +632,7 @@ function MilestoneOne() {
                   cover={<img src={visualTwoVio2} />}
                 >
                   <Meta
-                    title="Weber’s Law of JND"
+                    title="Law of Familarity"
                     description="Many countries were shrunk/enlarged and re-positioned to fit the diagram."
                   />
                 </Card>
