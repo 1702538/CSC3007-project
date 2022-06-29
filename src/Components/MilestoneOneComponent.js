@@ -566,13 +566,8 @@ function MilestoneOne() {
                   <ul>
                     <li>
                       Due to the resizing of the countries, it can be difficult
-<<<<<<< HEAD
                       to differentiate between countries. Some countries were
                       also omitted from the map due to the scaling.
-=======
-                      to differentiate between each of the countries. (Law of
-                      Familarity)
->>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                     </li>
                     <li>
                       Different colours across the colour legend are utilised,
@@ -637,13 +632,8 @@ function MilestoneOne() {
                   cover={<img src={visualTwoVio2} />}
                 >
                   <Meta
-<<<<<<< HEAD
                     title="Jakob’s Law"
                     description="Many countries were shrunk/enlarged and re-positioned to fit the diagram"
-=======
-                    title="Law of Familarity"
-                    description="Many countries were shrunk/enlarged and re-positioned to fit the diagram."
->>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                   />
                 </Card>
               </td>
