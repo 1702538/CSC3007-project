@@ -163,8 +163,9 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    Data used is identified as "ratio" data, as the carbon
-                    emission volumes are represented in percentages (%).
+                    We observed that two types of data were used: Nominal
+                    (Country Name) and Ratio (Share of World's Carbon Emission -
+                    represented in percentages).
                   </li>
                   <li>
                     The visualisation is designed to highlight the top "heavy
@@ -239,7 +240,7 @@ function MilestoneOne() {
                 </h2>
                 <ul>
                   <li>
-                    We observe that some countries are not represented in any
+                    We observed that some countries are not represented in any
                     shade of purple. Countries with less than 0.7% (i.e. Vietnam
                     & Argentina) are coloured pink. The colour pink is not
                     represented in the legend provided below. So what does the
@@ -467,10 +468,11 @@ function MilestoneOne() {
                   </h2>
                   <ul>
                     <li>
-                      Data used is identified as "ratio" data. However, the
-                      statistical data is omitted from the graph as the author
-                      has chosen to represent the data using a density map
-                      diagram.
+                      We observed that two types of data were used: Nominal
+                      (Country Name) and Ratio (PM2.5 Concentration). However,
+                      the PM2.5 Concentration data is omitted from the graph as
+                      the author has decided to represent the said data using a
+                      density map diagram.
                     </li>
                     <li>
                       The countries shown in the chart are also resized to
