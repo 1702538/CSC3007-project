@@ -538,15 +538,9 @@ function MilestoneOne() {
                     </li>
                     <li>
                       Good use of colour scales to represent the different
-<<<<<<< HEAD
                       levels of air pollution for each of the countries - Memory
                       Colour Effect (i.e. familar colours are used to represent
                       different levels of air pollution).
-=======
-                      levels of air pollution for each country (i.e. familar
-                      colours are used to represent different levels of air
-                      pollution - Memory Colour Effect & Jakob's Law).
->>>>>>> 319a48f9f1f3130a8b4fb7f8e186adf2d303af95
                     </li>
                     <li>
                       Countries with high levels of air pollution are coloured
