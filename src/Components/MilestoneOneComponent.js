@@ -21,7 +21,7 @@ import visualTwoVio3 from "../Images/visualTwo-violation-3.png";
 import "@fontsource/ibm-plex-sans";
 import "antd/dist/antd.css";
 
-import { Card } from "antd";
+import { Card, Button } from "antd";
 const { Meta } = Card;
 
 function MilestoneOne() {
@@ -68,11 +68,19 @@ function MilestoneOne() {
             bottom: 0,
             width: window.innerWidth * 0.6,
             textAlign: "left",
-            fontSize: "5em",
+            fontSize: "4em",
           }}
         >
-          The purpose of visualisation is insight,{" "}
-          <span style={{ color: "#418cff" }}>not pictures.</span>
+          <Button
+            size={"large"}
+            ghost
+            href="https://github.com/1702538/CSC3007-project/blob/main/P2-04%20Milestone%20One.pdf"
+          >
+            Download the Keynote
+          </Button>
+          <br />
+          The purpose of visualisation <br />
+          is insight, <span style={{ color: "#418cff" }}>not pictures.</span>
           <p
             style={{
               fontFamily: "IBM Plex Sans",
