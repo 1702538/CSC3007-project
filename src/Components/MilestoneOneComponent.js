@@ -146,10 +146,11 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by VisualCapitalist, this infographic features a globe-like
-            shape (which represents Earth) split into multiple segments of
-            different shapes and sizes; each segment represents one of the top
-            30 highest producers of carbon emissions in the world.
+            Created by VisualCapitalist for explanatory analysis, this
+            infographic features a treemap shaped like a “globe” (which
+            represents Earth). The infographic is designed to highlight the top
+            "heavy hitters" countries which collectively accounts for nearly 50%
+            of the world's carbon emissions in 2017.
           </p>
           <br />
 
@@ -176,9 +177,9 @@ function MilestoneOne() {
                     represented in percentages).
                   </li>
                   <li>
-                    The visualisation is designed to highlight the top "heavy
-                    hitters" countries which collectively accounts for nearly
-                    50% of the world's carbon emissions in 2017.
+                    The treemap consists of multiple segments with different
+                    shapes and sizes; each segment represents one of the top 30
+                    highest producers of carbon emissions in the world.
                   </li>
                 </ul>
               </tr>
@@ -260,22 +261,22 @@ function MilestoneOne() {
                     emission percentages (e.g. Japan with 3.3%).
                   </li>
                   <li>
-                    Inconsistent segment sizes for the same percentage of carbon
-                    emissions. (e.g. the carbon emission volume for both Vietnam
+                    We observed that the infographic suffers from size
+                    distortion (e.g. the carbon emission volume for both Vietnam
                     & Argentina are 0.6%, but they look inherently different).
                   </li>
                   <li>
-                    The countries are neither sorted alphabetically nor grouped
-                    by their percentages.
-                  </li>
-                  <li>
-                    No list of countries is provided to allow easy
-                    identification of all the countries represented.
+                    The countries are neither grouped by region nor by their
+                    carbon emissions percentages.
                   </li>
                   <li>
                     The font and size of the text are not standardised. (e.g.
                     the font used for “Malaysia” is different from the rest of
                     the other countries).
+                  </li>
+                  <li>
+                    No list of countries is provided to allow easy
+                    identification of all the countries represented.
                   </li>
                   <li>
                     The unit of measurement used to represent “Metric Tons of
@@ -437,11 +438,11 @@ function MilestoneOne() {
               lineHeight: "1.3em",
             }}
           >
-            Created by Matt Dzugan, this infographic provides a world map-view
-            of the concentration of Fine Particulate Matter (PM2.5) for each of
-            the countries; countries with high PM2.5 concentrations will have a
-            darker shade of brown, while countries with lower concentrations
-            will have a dark shade of blue.
+            Created by Matt Dzugan for explanatory analysis, this infographic
+            provides a world map-view of the concentration of Fine Particulate
+            Matter (PM2.5) for each of the countries; countries with high PM2.5
+            concentrations will have a darker shade of brown, while countries
+            with lower concentrations will have a dark shade of blue.
           </p>
           <table
             with={window.innerWidth}
