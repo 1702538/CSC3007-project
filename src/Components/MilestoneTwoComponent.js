@@ -126,7 +126,7 @@ function MilestoneTwo() {
                 One for Milestone Two.
               </li>
               <li>
-                Design a improved version of the selected visualisation for
+                Design an improved version of the selected visualisation for
                 Milestone Two.
               </li>
               <li>
