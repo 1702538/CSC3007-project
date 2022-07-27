@@ -3,10 +3,18 @@ import MilestoneOne from "./Components/MilestoneTwoComponent";
 import MilestoneTwo from "./Components/MilestoneTwoComponent";
 import FinalUI from "./Components/FinalUIComponent";
 
+import React from "react";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
+
 function App() {
   return (
-    <div className="App">
-      <MilestoneTwo />
+    <div>
+      <Router>
+        <Routes>
+          <Route path="/" exact element={<MilestoneTwo />} />
+          <Route path="/dashboard" element={<FinalUI />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
