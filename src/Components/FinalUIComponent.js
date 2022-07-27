@@ -11,7 +11,8 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
-import tableData10 from "./../tableJSON10.json";
+import tableData10Highest from "./../tableJSON10Highest.json";
+import tableData10Lowest from "./../tableJSON10Lowest.json";
 import tableData from "./../tableJSON.json";
 
 import * as d3 from "d3";
@@ -366,6 +367,9 @@ function FinalUI() {
     .style("font-size", "12px")
     .attr("alignment-baseline", "middle");
 
+  // Sort tableJSON10Lowest data - Order by lowest PM2.5 first
+  tableData10Lowest.sort((a, b) => a["PM 2.5"] - b["PM 2.5"]);
+
   return (
     <div className="App">
       <div
@@ -408,7 +412,7 @@ function FinalUI() {
           position: "fixed",
           top: 0,
           right: 0,
-          backgroundColor: "#f5f5f5",
+          backgroundColor: "#F8F8F8",
           width: window.innerWidth * 0.3,
           height: window.innerHeight - 1,
           maxWidth: "500px",
@@ -454,7 +458,7 @@ function FinalUI() {
                 size={"small"}
                 hoverable={true}
               >
-                <Statistic value={getRanking()} suffix="/ 177" />
+                <Statistic value={getRanking()} suffix="/ 176" />
               </Card>
             </Col>
             <Col span={12}>
@@ -491,7 +495,7 @@ function FinalUI() {
                 size={"small"}
                 hoverable={true}
               >
-                177 Countries
+                176 Countries
               </Card>
             </Col>
             <Col span={12}>
@@ -507,13 +511,13 @@ function FinalUI() {
           </Row>
         </div>
         <br />
-        <h4>Top 10 Countries (Sorted by highest PM 2.5 Emissions)</h4>
+        <h3>Top 10 Countries with Most Polluted Air (PM 2.5)</h3>
         <hr />
         <ResponsiveContainer width="100%" height="100%">
           <ComposedChart
             layout="vertical"
             maxWidth={400}
-            data={tableData10}
+            data={tableData10Highest}
             margin={{
               top: 20,
               right: 20,
@@ -529,9 +533,30 @@ function FinalUI() {
             <Bar dataKey="PM 2.5" barSize={20} fill="#513102" />
           </ComposedChart>
         </ResponsiveContainer>
+        <h3>Top 10 Countries with the Cleanest Air (PM 2.5)</h3>
+        <hr />
+        <ResponsiveContainer width="100%" height="100%">
+          <ComposedChart
+            layout="vertical"
+            maxWidth={400}
+            data={tableData10Lowest}
+            margin={{
+              top: 20,
+              right: 20,
+              bottom: 20,
+              left: 20,
+            }}
+          >
+            <CartesianGrid stroke="#f5f5f5" />
+            <XAxis type="number" />
+            <YAxis dataKey="Location" type="category" />
+            <Tooltip />
+            <Legend />
+            <Bar dataKey="PM 2.5" barSize={20} fill="#89CCC1" />
+          </ComposedChart>
+        </ResponsiveContainer>
         <h4>List of Countries (Ranked by highest PM2.5 Emissions)</h4>
         <hr />
-        <br />
         <Table columns={columns} dataSource={tableData} rowKey="Location" />
       </div>
     </div>
