@@ -80,6 +80,10 @@ function MilestoneTwo() {
             Download the Keynote
           </Button>
           &nbsp;
+          <Button ghost size={"large"} href="/CSC3007-project/#/milestone-one">
+            Milestone One
+          </Button>
+          &nbsp;
           <Button
             style={{ fontWeight: "bold" }}
             size={"large"}
