@@ -1,0 +1,52 @@
+[
+  {
+    "Rank": 1,
+    "Location": "Niger",
+    "PM 2.5": 93.18
+  },
+  {
+    "Rank": 2,
+    "Location": "Nepal",
+    "PM 2.5": 81.57
+  },
+  {
+    "Rank": 3,
+    "Location": "Qatar",
+    "PM 2.5": 80.8
+  },
+  {
+    "Rank": 4,
+    "Location": "Mauritania",
+    "PM 2.5": 74.13
+  },
+  {
+    "Rank": 5,
+    "Location": "Egypt",
+    "PM 2.5": 72.31
+  },
+  {
+    "Rank": 6,
+    "Location": "India",
+    "PM 2.5": 68.76
+  },
+  {
+    "Rank": 7,
+    "Location": "Cameroon",
+    "PM 2.5": 65.42
+  },
+  {
+    "Rank": 8,
+    "Location": "Chad",
+    "PM 2.5": 64.27
+  },
+  {
+    "Rank": 9,
+    "Location": "Mali",
+    "PM 2.5": 63.64
+  },
+  {
+    "Rank": 10,
+    "Location": "Bangladesh",
+    "PM 2.5": 62.79
+  }
+]

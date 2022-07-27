@@ -1,0 +1,802 @@
+[
+  {
+    "Rank": 1,
+    "Location": "Niger",
+    "PM 2.5": 93.18
+  },
+  {
+    "Rank": 2,
+    "Location": "Nepal",
+    "PM 2.5": 81.57
+  },
+  {
+    "Rank": 3,
+    "Location": "Qatar",
+    "PM 2.5": 80.8
+  },
+  {
+    "Rank": 4,
+    "Location": "Mauritania",
+    "PM 2.5": 74.13
+  },
+  {
+    "Rank": 5,
+    "Location": "Egypt",
+    "PM 2.5": 72.31
+  },
+  {
+    "Rank": 6,
+    "Location": "India",
+    "PM 2.5": 68.76
+  },
+  {
+    "Rank": 7,
+    "Location": "Cameroon",
+    "PM 2.5": 65.42
+  },
+  {
+    "Rank": 8,
+    "Location": "Chad",
+    "PM 2.5": 64.27
+  },
+  {
+    "Rank": 9,
+    "Location": "Mali",
+    "PM 2.5": 63.64
+  },
+  {
+    "Rank": 10,
+    "Location": "Bangladesh",
+    "PM 2.5": 62.79
+  },
+  {
+    "Rank": 11,
+    "Location": "Kuwait",
+    "PM 2.5": 62.59
+  },
+  {
+    "Rank": 12,
+    "Location": "Nigeria",
+    "PM 2.5": 61.73
+  },
+  {
+    "Rank": 13,
+    "Location": "Saudi Arabia",
+    "PM 2.5": 60.11
+  },
+  {
+    "Rank": 14,
+    "Location": "Senegal",
+    "PM 2.5": 59.78
+  },
+  {
+    "Rank": 15,
+    "Location": "Pakistan",
+    "PM 2.5": 58.76
+  },
+  {
+    "Rank": 16,
+    "Location": "Gambia",
+    "PM 2.5": 57.74
+  },
+  {
+    "Rank": 17,
+    "Location": "Burkina Faso",
+    "PM 2.5": 55.96
+  },
+  {
+    "Rank": 18,
+    "Location": "Iraq",
+    "PM 2.5": 55.42
+  },
+  {
+    "Rank": 19,
+    "Location": "Afghanistan",
+    "PM 2.5": 55.14
+  },
+  {
+    "Rank": 20,
+    "Location": "Ghana",
+    "PM 2.5": 54.5
+  },
+  {
+    "Rank": 21,
+    "Location": "Guinea Bissau",
+    "PM 2.5": 54.43
+  },
+  {
+    "Rank": 22,
+    "Location": "Sierra Leone",
+    "PM 2.5": 54.28
+  },
+  {
+    "Rank": 23,
+    "Location": "Guinea",
+    "PM 2.5": 53.32
+  },
+  {
+    "Rank": 24,
+    "Location": "Liberia",
+    "PM 2.5": 52.28
+  },
+  {
+    "Rank": 25,
+    "Location": "Libya",
+    "PM 2.5": 49.23
+  },
+  {
+    "Rank": 26,
+    "Location": "China",
+    "PM 2.5": 45.76
+  },
+  {
+    "Rank": 27,
+    "Location": "Togo",
+    "PM 2.5": 45.48
+  },
+  {
+    "Rank": 28,
+    "Location": "United Arab Emirates",
+    "PM 2.5": 44.87
+  },
+  {
+    "Rank": 29,
+    "Location": "Equatorial Guinea",
+    "PM 2.5": 44.47
+  },
+  {
+    "Rank": 30,
+    "Location": "Sudan",
+    "PM 2.5": 43.8
+  },
+  {
+    "Rank": 31,
+    "Location": "Oman",
+    "PM 2.5": 43.69
+  },
+  {
+    "Rank": 32,
+    "Location": "Central African Republic",
+    "PM 2.5": 43.27
+  },
+  {
+    "Rank": 33,
+    "Location": "Republic of the Congo",
+    "PM 2.5": 42.88
+  },
+  {
+    "Rank": 34,
+    "Location": "Mongolia",
+    "PM 2.5": 42.79
+  },
+  {
+    "Rank": 35,
+    "Location": "Uganda",
+    "PM 2.5": 42.75
+  },
+  {
+    "Rank": 36,
+    "Location": "Democratic Republic of the Congo",
+    "PM 2.5": 42.5
+  },
+  {
+    "Rank": 37,
+    "Location": "Benin",
+    "PM 2.5": 42.17
+  },
+  {
+    "Rank": 38,
+    "Location": "Yemen",
+    "PM 2.5": 41.46
+  },
+  {
+    "Rank": 39,
+    "Location": "Gabon",
+    "PM 2.5": 40.81
+  },
+  {
+    "Rank": 40,
+    "Location": "Rwanda",
+    "PM 2.5": 39.7
+  },
+  {
+    "Rank": 41,
+    "Location": "North Korea",
+    "PM 2.5": 38.89
+  },
+  {
+    "Rank": 42,
+    "Location": "Djibouti",
+    "PM 2.5": 38.34
+  },
+  {
+    "Rank": 43,
+    "Location": "Angola",
+    "PM 2.5": 38.29
+  },
+  {
+    "Rank": 44,
+    "Location": "Bhutan",
+    "PM 2.5": 37.57
+  },
+  {
+    "Rank": 45,
+    "Location": "Syria",
+    "PM 2.5": 37.43
+  },
+  {
+    "Rank": 46,
+    "Location": "Eritrea",
+    "PM 2.5": 37.02
+  },
+  {
+    "Rank": 47,
+    "Location": "Burundi",
+    "PM 2.5": 36.81
+  },
+  {
+    "Rank": 48,
+    "Location": "Algeria",
+    "PM 2.5": 35.18
+  },
+  {
+    "Rank": 49,
+    "Location": "Tajikistan",
+    "PM 2.5": 34.86
+  },
+  {
+    "Rank": 50,
+    "Location": "South Sudan",
+    "PM 2.5": 34.75
+  },
+  {
+    "Rank": 51,
+    "Location": "Iran",
+    "PM 2.5": 34.45
+  },
+  {
+    "Rank": 52,
+    "Location": "Armenia",
+    "PM 2.5": 33.84
+  },
+  {
+    "Rank": 53,
+    "Location": "Tunisia",
+    "PM 2.5": 33.27
+  },
+  {
+    "Rank": 54,
+    "Location": "Jordan",
+    "PM 2.5": 33.2
+  },
+  {
+    "Rank": 55,
+    "Location": "Myanmar",
+    "PM 2.5": 33.15
+  },
+  {
+    "Rank": 56,
+    "Location": "Ethiopia",
+    "PM 2.5": 31.85
+  },
+  {
+    "Rank": 57,
+    "Location": "Zambia",
+    "PM 2.5": 30.79
+  },
+  {
+    "Rank": 58,
+    "Location": "Lebanon",
+    "PM 2.5": 30.66
+  },
+  {
+    "Rank": 59,
+    "Location": "Guatemala",
+    "PM 2.5": 30.47
+  },
+  {
+    "Rank": 60,
+    "Location": "Peru",
+    "PM 2.5": 30.46
+  },
+  {
+    "Rank": 61,
+    "Location": "Thailand",
+    "PM 2.5": 29.83
+  },
+  {
+    "Rank": 62,
+    "Location": "Macedonia",
+    "PM 2.5": 29.59
+  },
+  {
+    "Rank": 63,
+    "Location": "El Salvador",
+    "PM 2.5": 29.14
+  },
+  {
+    "Rank": 64,
+    "Location": "Morocco",
+    "PM 2.5": 28.38
+  },
+  {
+    "Rank": 65,
+    "Location": "Uzbekistan",
+    "PM 2.5": 28.3
+  },
+  {
+    "Rank": 66,
+    "Location": "Bosnia and Herzegovina",
+    "PM 2.5": 28.14
+  },
+  {
+    "Rank": 67,
+    "Location": "Somalia",
+    "PM 2.5": 27.67
+  },
+  {
+    "Rank": 68,
+    "Location": "United Republic of Tanzania",
+    "PM 2.5": 26.73
+  },
+  {
+    "Rank": 69,
+    "Location": "Kenya",
+    "PM 2.5": 26.6
+  },
+  {
+    "Rank": 70,
+    "Location": "Suriname",
+    "PM 2.5": 26.48
+  },
+  {
+    "Rank": 71,
+    "Location": "South Korea",
+    "PM 2.5": 26.41
+  },
+  {
+    "Rank": 72,
+    "Location": "Bolivia",
+    "PM 2.5": 26.06
+  },
+  {
+    "Rank": 73,
+    "Location": "Malawi",
+    "PM 2.5": 25.62
+  },
+  {
+    "Rank": 74,
+    "Location": "Honduras",
+    "PM 2.5": 25.47
+  },
+  {
+    "Rank": 75,
+    "Location": "Zimbabwe",
+    "PM 2.5": 25.18
+  },
+  {
+    "Rank": 76,
+    "Location": "Botswana",
+    "PM 2.5": 25.16
+  },
+  {
+    "Rank": 77,
+    "Location": "South Africa",
+    "PM 2.5": 25.15
+  },
+  {
+    "Rank": 78,
+    "Location": "Cambodia",
+    "PM 2.5": 25.05
+  },
+  {
+    "Rank": 79,
+    "Location": "Serbia",
+    "PM 2.5": 24.85
+  },
+  {
+    "Rank": 80,
+    "Location": "Lesotho",
+    "PM 2.5": 24.49
+  },
+  {
+    "Rank": 81,
+    "Location": "Namibia",
+    "PM 2.5": 24.05
+  },
+  {
+    "Rank": 82,
+    "Location": "Chile",
+    "PM 2.5": 23.92
+  },
+  {
+    "Rank": 83,
+    "Location": "Kyrgyzstan",
+    "PM 2.5": 23.88
+  },
+  {
+    "Rank": 84,
+    "Location": "Trinidad and Tobago",
+    "PM 2.5": 23.32
+  },
+  {
+    "Rank": 85,
+    "Location": "Guyana",
+    "PM 2.5": 23.14
+  },
+  {
+    "Rank": 86,
+    "Location": "Mexico",
+    "PM 2.5": 22.73
+  },
+  {
+    "Rank": 87,
+    "Location": "Nicaragua",
+    "PM 2.5": 22.16
+  },
+  {
+    "Rank": 88,
+    "Location": "Georgia",
+    "PM 2.5": 22.15
+  },
+  {
+    "Rank": 89,
+    "Location": "Vietnam",
+    "PM 2.5": 22.01
+  },
+  {
+    "Rank": 90,
+    "Location": "Philippines",
+    "PM 2.5": 21.29
+  },
+  {
+    "Rank": 91,
+    "Location": "Mozambique",
+    "PM 2.5": 21.22
+  },
+  {
+    "Rank": 92,
+    "Location": "Azerbaijan",
+    "PM 2.5": 20.99
+  },
+  {
+    "Rank": 93,
+    "Location": "Poland",
+    "PM 2.5": 20.96
+  },
+  {
+    "Rank": 94,
+    "Location": "Belize",
+    "PM 2.5": 20.61
+  },
+  {
+    "Rank": 95,
+    "Location": "Laos",
+    "PM 2.5": 20.46
+  },
+  {
+    "Rank": 96,
+    "Location": "Montenegro",
+    "PM 2.5": 20.39
+  },
+  {
+    "Rank": 97,
+    "Location": "Venezuela",
+    "PM 2.5": 20.26
+  },
+  {
+    "Rank": 98,
+    "Location": "Eswatini",
+    "PM 2.5": 19.9
+  },
+  {
+    "Rank": 99,
+    "Location": "Ecuador",
+    "PM 2.5": 19.55
+  },
+  {
+    "Rank": 100,
+    "Location": "Cuba",
+    "PM 2.5": 19.11
+  },
+  {
+    "Rank": 101,
+    "Location": "Indonesia",
+    "PM 2.5": 19.05
+  },
+  {
+    "Rank": 102,
+    "Location": "Bulgaria",
+    "PM 2.5": 19.04
+  },
+  {
+    "Rank": 103,
+    "Location": "Costa Rica",
+    "PM 2.5": 18.69
+  },
+  {
+    "Rank": 104,
+    "Location": "Israel",
+    "PM 2.5": 18.52
+  },
+  {
+    "Rank": 105,
+    "Location": "Colombia",
+    "PM 2.5": 18.45
+  },
+  {
+    "Rank": 106,
+    "Location": "Turkmenistan",
+    "PM 2.5": 18.24
+  },
+  {
+    "Rank": 107,
+    "Location": "Albania",
+    "PM 2.5": 18.07
+  },
+  {
+    "Rank": 108,
+    "Location": "Kazakhstan",
+    "PM 2.5": 17.84
+  },
+  {
+    "Rank": 109,
+    "Location": "Slovakia",
+    "PM 2.5": 17.82
+  },
+  {
+    "Rank": 110,
+    "Location": "Haiti",
+    "PM 2.5": 17.56
+  },
+  {
+    "Rank": 111,
+    "Location": "Madagascar",
+    "PM 2.5": 17.5
+  },
+  {
+    "Rank": 112,
+    "Location": "Croatia",
+    "PM 2.5": 17.26
+  },
+  {
+    "Rank": 113,
+    "Location": "Bahamas",
+    "PM 2.5": 16.57
+  },
+  {
+    "Rank": 114,
+    "Location": "Sri Lanka",
+    "PM 2.5": 16.54
+  },
+  {
+    "Rank": 115,
+    "Location": "Belarus",
+    "PM 2.5": 16.36
+  },
+  {
+    "Rank": 116,
+    "Location": "Slovenia",
+    "PM 2.5": 16.29
+  },
+  {
+    "Rank": 117,
+    "Location": "Malaysia",
+    "PM 2.5": 16.27
+  },
+  {
+    "Rank": 118,
+    "Location": "Dominican Republic",
+    "PM 2.5": 16.04
+  },
+  {
+    "Rank": 119,
+    "Location": "Hungary",
+    "PM 2.5": 16.04
+  },
+  {
+    "Rank": 120,
+    "Location": "Czech Republic",
+    "PM 2.5": 15.41
+  },
+  {
+    "Rank": 121,
+    "Location": "Jamaica",
+    "PM 2.5": 14.86
+  },
+  {
+    "Rank": 122,
+    "Location": "Italy",
+    "PM 2.5": 14.84
+  },
+  {
+    "Rank": 123,
+    "Location": "Romania",
+    "PM 2.5": 14.76
+  },
+  {
+    "Rank": 124,
+    "Location": "Panama",
+    "PM 2.5": 14.74
+  },
+  {
+    "Rank": 125,
+    "Location": "Cyprus",
+    "PM 2.5": 14.72
+  },
+  {
+    "Rank": 126,
+    "Location": "Greece",
+    "PM 2.5": 14.04
+  },
+  {
+    "Rank": 127,
+    "Location": "Ukraine",
+    "PM 2.5": 13.98
+  },
+  {
+    "Rank": 128,
+    "Location": "Moldova",
+    "PM 2.5": 13.55
+  },
+  {
+    "Rank": 129,
+    "Location": "Japan",
+    "PM 2.5": 13.42
+  },
+  {
+    "Rank": 130,
+    "Location": "Belgium",
+    "PM 2.5": 12.68
+  },
+  {
+    "Rank": 131,
+    "Location": "Argentina",
+    "PM 2.5": 12.58
+  },
+  {
+    "Rank": 132,
+    "Location": "Latvia",
+    "PM 2.5": 12.33
+  },
+  {
+    "Rank": 133,
+    "Location": "Austria",
+    "PM 2.5": 12.15
+  },
+  {
+    "Rank": 134,
+    "Location": "Netherlands",
+    "PM 2.5": 11.96
+  },
+  {
+    "Rank": 135,
+    "Location": "Paraguay",
+    "PM 2.5": 11.94
+  },
+  {
+    "Rank": 136,
+    "Location": "Brazil",
+    "PM 2.5": 11.62
+  },
+  {
+    "Rank": 137,
+    "Location": "Germany",
+    "PM 2.5": 11.51
+  },
+  {
+    "Rank": 138,
+    "Location": "France",
+    "PM 2.5": 11.45
+  },
+  {
+    "Rank": 139,
+    "Location": "Solomon Islands",
+    "PM 2.5": 11.12
+  },
+  {
+    "Rank": 140,
+    "Location": "Papua New Guinea",
+    "PM 2.5": 11.11
+  },
+  {
+    "Rank": 141,
+    "Location": "Lithuania",
+    "PM 2.5": 10.71
+  },
+  {
+    "Rank": 142,
+    "Location": "Fiji",
+    "PM 2.5": 10.7
+  },
+  {
+    "Rank": 143,
+    "Location": "Vanuatu",
+    "PM 2.5": 10.5
+  },
+  {
+    "Rank": 144,
+    "Location": "Great Britain",
+    "PM 2.5": 10.33
+  },
+  {
+    "Rank": 145,
+    "Location": "Switzerland",
+    "PM 2.5": 10.11
+  },
+  {
+    "Rank": 146,
+    "Location": "Luxembourg",
+    "PM 2.5": 10.02
+  },
+  {
+    "Rank": 147,
+    "Location": "Uruguay",
+    "PM 2.5": 9.95
+  },
+  {
+    "Rank": 148,
+    "Location": "Denmark",
+    "PM 2.5": 9.85
+  },
+  {
+    "Rank": 149,
+    "Location": "Russia",
+    "PM 2.5": 9.8
+  },
+  {
+    "Rank": 150,
+    "Location": "Spain",
+    "PM 2.5": 9.2
+  },
+  {
+    "Rank": 151,
+    "Location": "Ireland",
+    "PM 2.5": 8.01
+  },
+  {
+    "Rank": 152,
+    "Location": "Portugal",
+    "PM 2.5": 7.6899999999999995
+  },
+  {
+    "Rank": 153,
+    "Location": "Brunei",
+    "PM 2.5": 7.51
+  },
+  {
+    "Rank": 154,
+    "Location": "United States of America",
+    "PM 2.5": 7.43
+  },
+  {
+    "Rank": 155,
+    "Location": "Australia",
+    "PM 2.5": 7.14
+  },
+  {
+    "Rank": 156,
+    "Location": "Austria",
+    "PM 2.5": 7.14
+  },
+  {
+    "Rank": 157,
+    "Location": "Norway",
+    "PM 2.5": 6.82
+  },
+  {
+    "Rank": 158,
+    "Location": "New Zealand",
+    "PM 2.5": 6.65
+  },
+  {
+    "Rank": 159,
+    "Location": "Canada",
+    "PM 2.5": 6.41
+  },
+  {
+    "Rank": 160,
+    "Location": "Estonia",
+    "PM 2.5": 6.41
+  }
+]

@@ -25,9 +25,6 @@ import { Card, Button } from "antd";
 const { Meta } = Card;
 
 function MilestoneOne() {
-  // JS code here
-  var a = "1234";
-
   return (
     <div style={{ fontFamily: "IBM Plex Sans", fontWeight: "100" }}>
       {/* HTML code here */}
@@ -685,7 +682,7 @@ function MilestoneOne() {
                   </li>
                   <li>
                     A bar chart may be employed to illustrate the different
-                    levels of air population better, be it by country or by
+                    levels of air pollution better, be it by country or by
                     population numbers.
                   </li>
                   <li>
