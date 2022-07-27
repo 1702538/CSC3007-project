@@ -83,7 +83,7 @@ function MilestoneTwo() {
           <Button
             style={{ fontWeight: "bold" }}
             size={"large"}
-            href="https://github.com/1702538/CSC3007-project/blob/main/P2-04%20Milestone%20One.pdf"
+            href="/CSC3007-assignment2/#/dashboard"
           >
             Go to Dashboard
           </Button>
