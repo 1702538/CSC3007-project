@@ -75,7 +75,7 @@ function MilestoneTwo() {
           <Button
             size={"large"}
             ghost
-            href="https://github.com/1702538/CSC3007-project/blob/main/P2-04%20Milestone%2Two.pdf"
+            href="https://github.com/1702538/CSC3007-project/blob/main/P2-04%20Milestone%20Two.pdf"
           >
             Download the Keynote
           </Button>
