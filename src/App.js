@@ -12,6 +12,8 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" exact element={<MilestoneTwo />} />
+          <Route path="/milestone-one" element={<MilestoneOne />} />
+          <Route path="/milestone-two" element={<MilestoneTwo />} />
           <Route path="/dashboard" element={<FinalUI />} />
         </Routes>
       </Router>
