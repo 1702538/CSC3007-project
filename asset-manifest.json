@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CSC3007-project/static/css/main.d9dc5897.css",
-    "main.js": "/CSC3007-project/static/js/main.90163957.js",
+    "main.js": "/CSC3007-project/static/js/main.b996891d.js",
     "static/js/787.a26d8cef.chunk.js": "/CSC3007-project/static/js/787.a26d8cef.chunk.js",
     "static/media/visualOne-violation-4.png": "/CSC3007-project/static/media/visualOne-violation-4.846ab89a3beea8efac88.png",
     "static/media/visualOne-violation-2.png": "/CSC3007-project/static/media/visualOne-violation-2.51852614f0fc70a829f1.png",
     "static/media/visualOne-violation-3.png": "/CSC3007-project/static/media/visualOne-violation-3.88ca0887cda2987ed994.png",
-    "static/media/finalUI-userInterface-1.png": "/CSC3007-project/static/media/finalUI-userInterface-1.25879d984759c59087f6.png",
-    "static/media/finalUI-userInterface-2.png": "/CSC3007-project/static/media/finalUI-userInterface-2.12e2a5e00f7268ef0fcb.png",
+    "static/media/finalUI-userInterface-1.png": "/CSC3007-project/static/media/finalUI-userInterface-1.4fd15d68ed816fe54d54.png",
+    "static/media/finalUI-userInterface-2.png": "/CSC3007-project/static/media/finalUI-userInterface-2.9de2a0e562886e9e74c9.png",
     "static/media/visualTwo-violation-3.png": "/CSC3007-project/static/media/visualTwo-violation-3.57a55d246cc366efe628.png",
     "static/media/visualTwo-violation-1.png": "/CSC3007-project/static/media/visualTwo-violation-1.af9f21fd6797ab839840.png",
     "static/media/Countries-with-the-Worst-Air-Quality-Full-Size.jpg": "/CSC3007-project/static/media/Countries-with-the-Worst-Air-Quality-Full-Size.f1a0dfc60a2424eafe0b.jpg",
@@ -38,11 +38,11 @@
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/CSC3007-project/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
     "index.html": "/CSC3007-project/index.html",
     "main.d9dc5897.css.map": "/CSC3007-project/static/css/main.d9dc5897.css.map",
-    "main.90163957.js.map": "/CSC3007-project/static/js/main.90163957.js.map",
+    "main.b996891d.js.map": "/CSC3007-project/static/js/main.b996891d.js.map",
     "787.a26d8cef.chunk.js.map": "/CSC3007-project/static/js/787.a26d8cef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9dc5897.css",
-    "static/js/main.90163957.js"
+    "static/js/main.b996891d.js"
   ]
 }
