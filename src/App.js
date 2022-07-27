@@ -1,5 +1,5 @@
 import "./App.css";
-import MilestoneOne from "./Components/MilestoneTwoComponent";
+import MilestoneOne from "./Components/MilestoneOneComponent";
 import MilestoneTwo from "./Components/MilestoneTwoComponent";
 import FinalUI from "./Components/FinalUIComponent";
 
